@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Maria 👋
 
-<!--
-**Maria-Touzo/Maria-Touzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas no SENAI**, em busca de estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Cursando ADS no SENAI
+- 💻 Desenvolvendo projetos de front-end, mobile e banco de dados
+- 🌱 Aprendendo e praticando todos os dias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+**Front-end:** HTML, CSS, JavaScript
+**Mobile:** React Native
+**Back-end e scripts:** Python
+**Banco de dados:** SQL (modelagem e scripts)
+**Ferramentas:** Git e GitHub
+
+## Projetos em destaque
+- [Portfólio](LINK-DO-REPOSITORIO) - meu site de apresentação
+- [Cadastro RH SENAI](LINK-DO-REPOSITORIO) - descreva em uma linha
+- [Projetos Tkinter](LINK-DO-REPOSITORIO) - interfaces gráficas em Python
+
+## Contato
+- 💼 [LinkedIn](LINK-DO-SEU-LINKEDIN)
+- 📧 seu-email@exemplo.com
